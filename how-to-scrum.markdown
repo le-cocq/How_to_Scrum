@@ -1,6 +1,16 @@
 ---
 title: Kontakt
 date: 2020-04-29 09:06:00 Z
+Kontaktformular: Du hast Fragen, Wünsche oder Anregungen? Wir freuen uns über Deine
+  Nachricht!
 ---
 
-https://www.youtube.com/watch?v=NoRS2D-cyko&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=11
+**NIMM KONTAKT ZU UNS AUF**
+
+* UNTERNEHMEN
+
+* VORNAME\*
+
+* NAME\*
+
+* EMAIL\*
